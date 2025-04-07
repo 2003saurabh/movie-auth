@@ -127,7 +127,7 @@ Major libraries used:
 
 ## 📸 Screenshot
 
-![Screenshot](https://via.placeholder.com/1000x600.png?text=Screenshot+of+Movie+Recommender+App)
+
 
 ---
 
@@ -144,4 +144,4 @@ MIT License. Feel free to use, modify, and share.
 
 ---
 
-### 🧑‍💻 Built with ❤️ by [Your Name]
+### 🧑‍💻 Built with ❤️ by Saurabh Yadav
